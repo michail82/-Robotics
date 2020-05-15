@@ -1,4 +1,4 @@
-#include <PS3USB.h>                 // библиотека геймпада PS3!!!
+#include <PS3USB.h>                 // библиотека геймпада PS3!!!  111
 // USB shield сьел 9 и 10 порты. На них ничего нельзя вешать
 #include <Keypad.h>// подключаем библиотеку клавиатуры
 #include <LiquidCrystal_I2C.h>     // Библиотека дисплея
